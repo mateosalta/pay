@@ -1,5 +1,6 @@
 Three simple steps to your final webapp:
- - ensure the url in this file is correct in the googleapp.desktop
+ - ensure the url in this file is correct in the pay.desktop
+ - change every "pay" to your app name, and change the developer name and information
  - replace the default icon.png with an 256x256 icon 
  - build the package in a commandline terminal with "click build ." or on the Publish tab of the IDE with the Create package button
 
