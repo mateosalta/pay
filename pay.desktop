@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=pay App
+Comment=webapp for pay
+Type=Application
+Icon=icon.png
+Exec=webapp-container   --webappUrlPatterns=* https://mateo-salta.itch.io/utouch-payent-demo %u --store-session-cookies 
+Terminal=false
+X-Ubuntu-Touch=true
+X-Ubuntu-Splash-Image=icon.png
+X-Ubuntu-Splash-Color=#FFFFFF
+
+Name[en_US]=pay
